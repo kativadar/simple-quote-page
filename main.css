@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 /* háttér magasság beállítása a mindenkori ablakmérethez, teljes szélesség, háttér nem ismétlődik és középre igazítva*/
 body {
@@ -26,10 +26,24 @@ body {
 /* betűméret, stílus átalakítása */
 .idezet {
   font-size: 40px;
-  text-transform: uppercase;
+  text-transform: capitalize ;
 }
 
 /* betűstílus */
 .mondta {
   font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  word-spacing: 10px;
+  margin-top: 100px;
+}
+
+li {
+  display: inline;
+}
+
+li:hover {
+  font-size: 115%;
 }
