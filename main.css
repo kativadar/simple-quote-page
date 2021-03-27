@@ -44,6 +44,14 @@ li {
   display: inline;
 }
 
-li:hover {
-  font-size: 115%;
+img {
+  height: 50px;
+  width: auto;
+  border-radius: 50%;
+  transition: all 0.5s ease-in-out;
+  filter: opacity(36%);
+}
+
+img:hover {
+  filter: grayscale(10%)
 }
