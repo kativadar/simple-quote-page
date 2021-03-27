@@ -11,6 +11,8 @@ Munkamenet:
 6. Ismétlek, amíg nem végzek mindennel...
 
 Verzótörténet:
-2021-03-27 / a nyelvválasztst immár képi elemek is megkönnyítik
-2021-03-26 / az oldal már három nyelven érhető el, a nyelvválasztás szöveges hivatkozás segíti
+2021-03-27 / a nyelvválasztást immár képi elemek is megkönnyítik
+
+2021-03-26 / az oldal már három nyelven érhető el, a nyelvválasztás szöveges hivatkozás segíti, emellett az adott nyelvhez kapcsolódó zászló jelenik meg ikonként a címsorban, ami szinttn lefordításra került
+
 2021-03-25 / alap "Freedom" oldal elkészült és feltöltésre került
