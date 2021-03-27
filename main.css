@@ -34,24 +34,27 @@ body {
   font-style: italic;
 }
 
+/* a nyelvválasztást segítő felsorolásból elrejtettem a bulletpontokat, szóközt és térközt állítottam be*/
 ul {
   list-style-type: none;
   word-spacing: 10px;
   margin-top: 100px;
 }
 
+/* a listaelemek egymás mellett jelennek meg */
 li {
   display: inline;
 }
 
+/* a lista képi elemeinek méretét beállítottam, lekerekítettem a képek sarkait, áttetszőség mértékét állítottam be */
 img {
   height: 50px;
   width: auto;
   border-radius: 50%;
-  transition: all 0.5s ease-in-out;
   filter: opacity(36%);
 }
 
+/* a lista képei elemei fölé állva szürkeárnyaltos megjelenítés */
 img:hover {
   filter: grayscale(10%)
 }
